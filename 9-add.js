@@ -3,7 +3,7 @@ const first = Number(args[2]);
 const second = Number(args[3]);
 
 if (isNaN(first) || isNaN(second)) {
-    console.log('Missing number');
+    console.log('NAN');
 } else {
     console.log(first + second);
 }
