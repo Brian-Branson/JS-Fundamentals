@@ -1,4 +1,5 @@
 const argv = process.argv;
+const originalNumber = (argv[2]);
 const flooredNumber = Math.floor(originalNumber);
 
 if (!Number.isNaN(Number(argv[2])))
