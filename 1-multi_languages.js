@@ -1,5 +1,5 @@
-const dog = ["c is fun" , 'python is cool', 'javascript is amazing',];
+const dog = ["C is fun", "Python is cool", "JavaScript is amazing"];
 
-console.log(dog);
-
-//done
+console.log(dog[0]);
+console.log(dog[1]);
+console.log(dog[2]);
